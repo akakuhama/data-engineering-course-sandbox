@@ -21,5 +21,3 @@ jobs:
           source $HOME/.cargo/env
           make lint
         shell: bash
-  
-
