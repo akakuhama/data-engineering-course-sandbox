@@ -1,6 +1,6 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+[![Tests](https://github.com/akakuhama/data-engineering-course-sandbox/actions/workflows/tests.yml/badge.svg)](https://github.com/akakuhama/data-engineering-course-sandbox/actions/workflows/tests.yml)
 
-## References
+# Data Engineering course - Sandbox
 
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+A repo used as a sandbox for the Data Engineering course by Duke University.
+
